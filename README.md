@@ -17,8 +17,6 @@ What This Script Does:
 
 How to Use:
 
-    Save as recon_automate.sh
-
     Make executable:
     chmod +x recon_automate.sh
 
