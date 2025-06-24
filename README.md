@@ -14,3 +14,15 @@ What This Script Does:
  -   Scans for common web vulnerabilities with Nikto and Nuclei.
 
  -   Auto-generates a summary report (report.txt) combining the key findings from each tool.
+
+How to Use:
+
+    Save as recon_automate.sh
+
+    Make executable:
+    chmod +x recon_automate.sh
+
+    Run:
+    ./recon_automate.sh
+
+    All your results, logs, and report.txt summary will be in a timestamped output folder.
