@@ -1,6 +1,8 @@
 # reconscript
 Automated Recon &amp; Reporting Script
 
+Edit your script file to fill in the domain or website you want to target.
+
 What This Script Does:
 
  -  Gathers WHOIS, DNS, HTTP headers, cookies.
